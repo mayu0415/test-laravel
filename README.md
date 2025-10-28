@@ -1,7 +1,7 @@
 <h1>お問い合わせフォーム</h1>
 <h2>環境構築</h2>
 <h3>Dockerビルド</h3>
-<br>１，</br>
+<br>１，リンク：git@github.com:mayu0415/test-laravel.git</br>
 <br>２，docker-compose up -d --build</br>
 <h3>Laravel環境構築</h3>
 <br>1,docker-compose exec php bash</br>
